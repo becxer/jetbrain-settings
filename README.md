@@ -1,6 +1,6 @@
-# jetbrain-emacstic-keymap
+# jetbrain-settings
 
-becxer's jetbrain keymap (emacs key binding with seamless) 
+becxer's jetbrain settings (emacs key binding with seamless) 
 
 ## How to install
 
